@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 7732798212,
+      "username": "tipoblat",
+      "is_banned": 0,
+      "is_admin": 0,
+      "is_subscribed": 1,
+      "sub_until": 7732798212,
+      "created_at": 1792875697685
+    },
+    {
+      "id": 8239524906,
+      "username": "xzxzxzxzcz123",
+      "is_banned": 0,
+      "is_admin": 1,
+      "is_subscribed": 0,
+      "sub_until": 0,
+      "created_at": 1792875717476
+    }
+  ],
+  "lots": [],
+  "purchases": []
+}
